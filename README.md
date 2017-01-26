@@ -1,0 +1,1 @@
+This is an example of how you can implement media tags to achieve a responsive page using CSS.
